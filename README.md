@@ -66,6 +66,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashenry&theme=radical" alt="Anas's GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashenry&layout=compact&theme=radical" alt="Anas's Top Languages" />
 </p>
+###
+
+<img src="https://raw.githubusercontent.com/AKSHAY-1205/AKSHAY-1205/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 ## 📊 LeetCode Stats  
