@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Anas Henry A
 
-🎓 Education: B.Tech in AI & ML, Kongu Engineering College (Graduating @ 2026)
-💡 Interests: Full Stack Development, Machine Learning
+🎓 Education: B.Tech in AI & ML, Kongu Engineering College (Graduating @ 2026)                                                               
+💡 Interests: Full Stack Development, Machine Learning                                                                 
 🛠 Technical Skills:
 ### 💻 Languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
