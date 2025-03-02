@@ -61,11 +61,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anashenry&show_icons=true&theme=radical" alt="Anas's GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anashenry&theme=radical" alt="Anas's GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anashenry&layout=compact&theme=radical" alt="Anas's Top Languages" />
-</p>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=AnasHenry&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnasHenry&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHenry&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 <img src="https://raw.githubusercontent.com/AKSHAY-1205/AKSHAY-1205/output/snake.svg" alt="Snake animation" />
 
