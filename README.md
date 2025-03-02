@@ -69,9 +69,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/AKSHAY-1205/AKSHAY-1205/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
 ## 📊 LeetCode Stats  
